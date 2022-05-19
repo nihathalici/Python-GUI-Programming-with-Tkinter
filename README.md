@@ -10,4 +10,5 @@ Links and Appendix
 
 - Get the book: https://www.packtpub.com/product/python-gui-programming-with-tkinter/9781788835886
 - About Alan D. Moore and his works: https://www.alandmoore.com/
+- Source code: https://github.com/PacktPublishing/Python-GUI-Programming-with-Tkinter-2E
 
