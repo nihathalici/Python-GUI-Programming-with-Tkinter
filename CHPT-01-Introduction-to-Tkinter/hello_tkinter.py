@@ -1,11 +1,3 @@
 """Hello World application for Tkinter"""
 
-import tkinter as tk
-
-root = tk.Tk()
-
-label = tk.Label(root, text="Hello World")
-
-label.pack()
-
-root.mainloop()
+# https://github.com/PacktPublishing/Python-GUI-Programming-with-Tkinter-2E/blob/main/Chapter01/hello_tkinter.py
