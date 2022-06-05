@@ -1,1 +1,1 @@
-
+"""A sample class definition"""
