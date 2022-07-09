@@ -1,4 +1,4 @@
-# Python-GUI-Programming-with-Tkinter
+# Python GUI Programming with Tkinter
 
 This is my repo following the book "Python GUI Programming with Tkinter" by Alan D. Moore.
 
